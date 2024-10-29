@@ -1,0 +1,3 @@
+[submodule "vacuum-hose-adapter-openscad"]
+	path = vacuum-hose-adapter-openscad
+	url = https://github.com/ostat/vacuum-hose-adapter-openscad
